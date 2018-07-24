@@ -51,7 +51,7 @@ TODAY|@TODAYonline|41085467
 
 e.g. Tweets.csv, refer the file
 
-## Running the tests
+## Running the script
 
 Simply run ```python crawler.py Tweets.csv Publishers.csv```
 
