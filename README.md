@@ -25,7 +25,7 @@ import requests
 
 ### Installing
 
-Download the code crawler.py
+Download the code ```crawler.py```
 
 Create 2 other csv files, 1 for the details of publishers and the other for the storage of tweets. Publisher.csv is the input file for the script to read in the user_ids of the publishers. Key in user_name of publisher to this [link](https://tweeterid.com/) to obtain the user_id. Format example is shown below (heading is added for readability, actual csv file does not contain it).
 
