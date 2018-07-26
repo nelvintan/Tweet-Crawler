@@ -49,7 +49,13 @@ The Business Times|@BusinessTimes|1181472344
 The New Paper|@thenewpaper|34565395
 TODAY|@TODAYonline|41085467
 
-e.g. Tweets.csv, refer to the file
+e.g. Tweets.csv
+
+|source|publisher name|date & time|tweet|
+|:---:|:---:|:---:|:---:|
+|Twitter|BBC News (UK)|2018-06-05 01:40:47|Swimmer Ben Lecomte begins record Pacific crossing attempt https://t.co/lAFNYQjsHb|
+|Twitter|BBC News (UK)|2018-06-05 01:40:47|Heathrow Airport: Cabinet set for new runway decision https://t.co/C8EShhmhJU|
+|Twitter|BBC News (UK)|2018-06-05 01:40:47|Ron Rockwell Hansen: US arrests man for trying to spy for China https://t.co/D6YEOYDev2|
 
 ## Running the script
 
