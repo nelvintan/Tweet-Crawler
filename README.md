@@ -1,6 +1,6 @@
 # Tweet Crawler
 
-Goal is to stream tweets from twitter and store them in a csv file.
+Goal is to stream tweets from specific users and store them in a csv file.
 
 ## Getting Started
 
@@ -49,7 +49,7 @@ The Business Times|@BusinessTimes|1181472344
 The New Paper|@thenewpaper|34565395
 TODAY|@TODAYonline|41085467
 
-e.g. Tweets.csv, refer the file
+e.g. Tweets.csv, refer to the file
 
 ## Running the script
 
