@@ -59,6 +59,15 @@ e.g. Tweets.csv
 
 ## Running the script
 
+Fill in this part of the code shown below in ```crawler.py``` with your authentication keys.
+
+```
+consumer_key = 'CONSUMER_KEY'
+consumer_secret = 'CONSUMER_SECRET'
+access_token = 'ACCESS_TOKEN'
+access_secret = 'ACCESS_SECRET'
+```
+
 Simply run ```python crawler.py Tweets.csv Publishers.csv```
 
 For more info on how to run, type ```python crawler.py -h```
