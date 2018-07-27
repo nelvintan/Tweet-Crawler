@@ -16,7 +16,7 @@ Please follow this [tutorial](https://iag.me/socialmedia/how-to-create-a-twitter
 
 These are the 4 libraries that are required for this script.
 
-```
+```python
 import csv
 import tweepy
 import argparse
@@ -61,7 +61,7 @@ e.g. Tweets.csv
 
 Fill in this part of the code shown below in ```crawler.py``` with your authentication keys.
 
-```
+```python
 consumer_key = 'CONSUMER_KEY'
 consumer_secret = 'CONSUMER_SECRET'
 access_token = 'ACCESS_TOKEN'
